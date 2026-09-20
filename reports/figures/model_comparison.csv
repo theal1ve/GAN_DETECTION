@@ -1,0 +1,4 @@
+model,accuracy,precision,recall,f1,roc_auc
+inception_v1,1.0,1.0,1.0,1.0,1.0
+inception_v3,1.0,1.0,1.0,1.0,1.0
+resnet50,1.0,1.0,1.0,1.0,1.0
