@@ -93,8 +93,8 @@ ResNet + Noise2Void) — они не дали прироста на валида
 ## Установка
 
 ```bash
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/theal1ve/GAN_DETECTION.git
+cd GAN_DETECTION
 
 python -m venv .venv
 source .venv/bin/activate     # Windows: .venv\Scripts\activate
